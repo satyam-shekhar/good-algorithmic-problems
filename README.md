@@ -7,7 +7,7 @@ exactly one cycle and every  other nodes in that component are directed towards 
 If cycle contains more than 2 nodes then we can keep only those nodes in one circle(no space for others).
 If cycle contains exactly two nodes , then we can add other components to it because both of them are already satisfied.
 
-solution contains two steps 
+solution contains three steps :  
 1)finding the maximum length of cycle.Let it be ans1.
 2)For each component having cycle of length 2, finding longest linear chain. Let ans2 will be sum of all such longest chains
    for each components.
