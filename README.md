@@ -1,5 +1,5 @@
 # good-algorithmic-problems
-https://code.google.com/codejam/contest/4304486/dashboard#s=p2&a=2
+1) <a href="https://code.google.com/codejam/contest/4304486/dashboard#s=p2&a=2">BFF</a>
 
 The problem can be visualised as a graph in which each edge is from one kid to its BFF. Observing the various inputs 
 and forming graphs from them, it can be observed that graph can contain few connected components, where each component contains
@@ -13,5 +13,5 @@ solution contains two steps
    for each components.
 3)final ans will be maximum of ans1 and ans2.
 
-This graph is a special type of graph called <a href="https://en.wikipedia.org/wiki/Pseudoforest#Graphs_of_functions">Endofunctions</a> Endofunctions in which "for each x which belongs to set X, y = f(x) also belongs to
+This graph is a special type of graph called <a href="https://en.wikipedia.org/wiki/Pseudoforest#Graphs_of_functions">Endofunctions</a>  in which "for each x which belongs to set X, y = f(x) also belongs to
 set X."
