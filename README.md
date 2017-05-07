@@ -15,3 +15,7 @@ solution contains three steps :
 
 This graph is a special type of graph called <a href="https://en.wikipedia.org/wiki/Pseudoforest#Graphs_of_functions">Endofunctions</a>  in which "for each x which belongs to set X, y = f(x) also belongs to
 set X."
+
+
+2. <a href="https://codejam.withgoogle.com/codejam/contest/11304486/dashboard#s=p1">Center</a>
+   This is a very good question on Ternary Search. Ternary Search is utilised to maximise the function which is dependent on two variables, hence requiring two levels of ternary search. First level fixes the x values and then search for minimum values of the function fixed x and varying y (just like for loop works).
